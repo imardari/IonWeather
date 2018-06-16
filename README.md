@@ -13,6 +13,9 @@ Once the app launches it finds your current location and displays the temperatur
   <li>Switch between Celsius and Fahrenheit</li>
   <li>Your temperature selection persists on termination/re-opening of the app</li>
 </ul>
+
+## API
+OpenWeatherMap API
  
 ## Requirements
 iOS 11.0+
